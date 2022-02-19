@@ -62,4 +62,4 @@ Please open an issue here if you identify any error.
 
 ## License
 
-MIT
+GPL-3.0 License 
