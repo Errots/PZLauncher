@@ -40,7 +40,6 @@ git clone https://github.com/Errots/PZLauncher
 Then with python installed activate the environment and run
 
 ```bash
-.\Scripts\activate
 pip install PySimpleGUI
 pip install PyInstaller
 py main.py
